@@ -1,0 +1,34 @@
+.sl{
+    background-color: rgb(1, 1, 22);
+    height:100vh;
+    width:100%;
+/* padding-left: 340px; */
+margin-right: auto;
+
+
+
+}
+.sl1{
+    height:40vh;
+    width:50%;
+    /* position: absolute;
+    padding-top: 180px;
+     */
+     padding-top: 50px;
+     padding-left: 340px;
+ 
+}
+.sl2{
+    height:40vh;
+    width:20%;
+    position: absolute;
+    padding-top: 20px;
+
+}
+.shr{
+    padding-top:170px;
+    color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+    position: relative;
+}

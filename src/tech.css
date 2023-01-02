@@ -1,0 +1,29 @@
+.ti4{
+    height:20vh;
+    width:20%;
+    background-color: aliceblue;
+    float:right;
+}
+.bd1{
+    border-style: none;
+    border-top:15px solid blue;
+    border-radius: 20px;
+}
+.tb{
+    
+}
+.bd2{
+    border-style: none;
+    border-top:15px solid rgb(255, 42, 0);
+    border-radius: 20px;
+}
+.bd3{
+    border-style: none;
+    border-top:15px solid rgb(255, 242, 0);
+    border-radius: 20px;
+}
+.bd4{
+    border-style: none;
+    border-top:15px solid rgb(51, 255, 0);
+    border-radius: 20px;
+}

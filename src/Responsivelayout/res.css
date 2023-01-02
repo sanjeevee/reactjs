@@ -1,0 +1,113 @@
+ .resbg{
+    background-image: url("./orgbg.jpg");
+    background-size: cover;
+    height:100%;
+    width:100%;
+
+    padding-top: 10%;
+    
+
+}
+.hh3{
+    color:aliceblue;
+    font-family: 'Dancing Script', cursive;
+    
+}
+.hh1{
+    color: orange;
+    font-family: 'Dancing Script', cursive;
+}
+.hp1{
+    color: rgba(128, 220, 58, 0.8);
+    font-size: x-large;
+}
+.hb1{
+    margin-left:0px;
+}
+
+.hcontent{
+    padding-top: 20%;
+    padding-bottom: 20%;
+} 
+
+
+/* work -css */
+  .wbg{
+    /* background-color: green; */
+    background-color: rgb(18, 61, 45);
+    height: 100%;
+    width:100%;
+}
+.wp1{
+    text-align: center;
+   
+}
+.wh2{
+    text-align: center;
+}
+.wp2{
+    text-align: center;
+} 
+
+
+/* Orgnaic css */
+.orgbg{
+    background-color: rgb(18, 61, 45);
+}
+.orgh3{
+    text-align: center;
+    color: rgb(242, 239, 239);
+    font-family: 'Dancing Script', cursive;
+}
+.orgh1{
+    text-align: center;
+    color: rgb(236, 236, 115);
+    font-family: 'Dancing Script', cursive;
+
+}
+.orgp1{
+    text-align: center;
+    color: rgb(192, 182, 184);
+}
+.orgim1{
+    height: 100%;
+    width:100%;
+
+}
+.or1{
+    padding-top: 10%;
+    padding-bottom: 2%;
+}
+
+.orgbt{
+    margin-left: 29%;
+
+
+} 
+
+/* productcss */
+
+ .proimg{
+    height:550%;
+    width:40%;
+}
+.proc1{
+    text-align: center;
+}
+.pro1{
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+/* Aboutss */
+.abg{
+    /* background-color: chartreuse; */
+    background-color: rgb(18, 61, 45);
+    height:100%;
+}
+.abcar{
+    text-align: center;
+}
+.abh1{
+    font-family: 'Dancing Script', cursive;
+}
